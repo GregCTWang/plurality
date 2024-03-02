@@ -36,6 +36,7 @@ Deb Amlen, “One Who Gives a Hoot,” *Wordplay*, January 26, 2015, [http://w
 
 “Page Title,” Company, last modified Month Day, Year, link.
 
+
 ### Example:
 
 “Privacy Policy,” Privacy & Terms, Google, last modified April 17, 2017, [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/).
